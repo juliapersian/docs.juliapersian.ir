@@ -1,4 +1,4 @@
-# [docs.julialang.org][julia-docs]
+# [docs.persianjulia.ir][julia-docs]
 
 This repository hosts the built documentation for the [Julia language][julia-web].
 The pages are built from source files in the [Julia's GitHub repository][julia-gh],
