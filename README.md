@@ -4,6 +4,6 @@
 صفحات از [مخزن گیت هاب جولیا][julia-gh] ساخته شده اند
 و برای مشارکت در این پروژه باید در آنجا تغییرات را صورت دهید.
 
-[julia-docs]:  http://docs.juliapersian.ir
-[julia-web]: http://juliapersian.ir/
+[julia-docs]:  https://docs.juliapersian.ir
+[julia-web]: https://juliapersian.ir/
 [julia-gh]: https://github.com/juliapersian/julia
