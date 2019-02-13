@@ -1,9 +1,9 @@
 # [docs.persianjulia.ir][julia-docs]
 
-This repository hosts the built documentation for the [Julia language][julia-web].
-The pages are built from source files in the [Julia's GitHub repository][julia-gh],
-and contributions to the documentation should be made there.
+این مخزن میزبان مستندات ساخته شده برای [زبان جولیا][julia-web] است.
+صفحات از [مخزن گیت هاب جولیا][julia-gh] ساخته شده اند
+و برای مشارکت در این پروژه باید در آنجا تغییرات را صورت دهید.
 
-[julia-docs]:  https://docs.julialang.org
-[julia-web]: https://julialang.org/
-[julia-gh]: https://github.com/JuliaLang/julia
+[julia-docs]:  http://docs.juliapersian.ir
+[julia-web]: http://juliapersian.ir/
+[julia-gh]: https://github.com/juliapersian/julia
